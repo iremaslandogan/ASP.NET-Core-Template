@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "cktstTWYBw8nFg0MtXxRmmUCF5F0WEbIW2RdbtKZIiM=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\asp-net-Core\\AspNetCore-Template\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\admin\\Desktop\\asp-net-Core\\AspNetCore-Template\\API\\wwwroot\\Images\\1f2e85f6-735c-45a9-8cf8-1e45f3889154.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\asp-net-Core\\AspNetCore-Template\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Images/1f2e85f6-735c-45a9-8cf8-1e45f3889154.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\1f2e85f6-735c-45a9-8cf8-1e45f3889154.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\Desktop\\asp-net-Core\\AspNetCore-Template\\API\\wwwroot\\Images\\2ac48e67-6e10-4afb-9390-11f88fd7b9c8.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\asp-net-Core\\AspNetCore-Template\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Images/2ac48e67-6e10-4afb-9390-11f88fd7b9c8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2ac48e67-6e10-4afb-9390-11f88fd7b9c8.png"
+    }
+  ]
+}

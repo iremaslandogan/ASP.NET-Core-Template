@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\Service.dll
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\ref\Service.dll
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\Core.dll
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\bin\Debug\net6.0\Core.pdb
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.dll
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\admin\Desktop\asp-net-Core\AspNetCore-Template\Service\obj\Debug\net6.0\Service.pdb
